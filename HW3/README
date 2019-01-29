@@ -1,0 +1,10 @@
+# README
+# 计算物理第三次作业
+
+
+* 代码均在jupyter notebook的ipynb文件中
+* 请确认安装需要的包
+	pip install numpy matplotlib tabulate scipy
+* 请在当前目录下打开终端输入
+	jupyter notebook
+即可查看ipynb文件
